@@ -12,12 +12,12 @@ For each record in the dataset it is provided:
   - An identifier of the subject who carried out the experiment.
   
 The subjects have performed the following activities:
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+- 1 WALKING
+- 2 WALKING_UPSTAIRS
+- 3 WALKING_DOWNSTAIRS
+- 4 SITTING
+- 5 STANDING
+- 6 LAYING
 
 In this project, data is fetched, cleaned up and transformed so that the resulting dataset contains averages for each variable per subject and activity performed. 
 
