@@ -48,8 +48,7 @@ The following functions were used:
 
 The data has been downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones, unzipped and stored in a directory called "data".
 
-Two libraries are needed for the analysis.
- - library(plyr) is used for for renaming columns
+Libraries needed for the analysis:
  - library(dplyr) is used for data manipulation 
 
 Train and test data are read and stored each into a separate data frame. "train_X" holds train data and "test_X" holds test data. "subject_train" and "subject_test" hold IDs of test and train subjects (people participating in a data collection process). "train_Y" and "test_Y" hold IDs of activities performed by subjects.
